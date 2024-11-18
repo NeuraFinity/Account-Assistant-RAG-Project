@@ -1,0 +1,12 @@
+langchain 
+openai 
+tiktoken 
+PyPDF2 
+faiss-cpu
+langchain_openai
+langchain-community
+langchain_chroma
+langchain-google-genai
+google-generativeai
+pypdf
+streamlit
